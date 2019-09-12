@@ -1,0 +1,97 @@
+body{
+    font-family:Arial;
+    font-size:20px;
+    margin:0px;
+    line-height:150%;
+    text-align:center;
+    background-color:#CC6;
+}
+
+#container{
+    margin:0 auto;
+    width:900px;
+
+    //background-color:#FFF;
+}
+
+#header{
+    height:100px;
+    //background:#F39;
+    margin-bottom:5px;
+    padding-top:20px;
+}
+
+#mainContent{
+    width:auto;
+    overflow:auto;
+    margin-bottom:5px;
+}
+
+#sider{
+    float:left;
+    width:250px;
+    height:200px;
+    background:;
+    padding-top:1px;
+}
+
+#content{
+    position:relative; 
+    float:right;
+    width:600px;
+    right:45px;
+    padding-top:5px;
+}
+
+#footer{
+    height:60px;
+    //background:#6CF;
+}
+
+
+.tablesider { 
+    font-family: "微軟正黑體", Arial; 
+    font-size:14px;
+} 
+
+.thsider { 
+    color:blue;
+    border-radius:10px;
+    height:50px;
+    font-size:20px;
+    width:500px;
+    border-color:#A1C7EF;
+    background:#EBF5FF;
+    border:1 solid;
+    border-style:solid;
+
+} 
+
+.thcolor{
+    background:#97FFFF;
+	border-style:double;
+}
+
+.tablecontent{
+	border: 1;
+	width: 575px;
+	border-style: double;
+	border-color: #EAEAEA;
+	font-family: "微軟正黑體", Arial;
+	font-size: 14px;
+}
+
+.tdcontent{
+	width: 0%;
+	border: 1;
+	text-align: left;
+	background: #EAEAEA;
+}
+
+.tdfont{
+    font-size: 18px;
+}
+
+.tdfont select{
+    font-size: 18px;
+}
